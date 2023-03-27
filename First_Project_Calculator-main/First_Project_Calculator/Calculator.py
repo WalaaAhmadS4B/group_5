@@ -15,6 +15,7 @@ print("11.sin")
 print("12.cos")
 print("13.tan")
 print("14.factorial")
+print("14.factorial")
 
 while True:
     # take input from the user
